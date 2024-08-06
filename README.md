@@ -43,7 +43,7 @@ An advanced web scraping project that extracts job posting data from TimesJobs.c
 Run each script individually based on your scraping needs. For example:
 
 ```
-python advanced_scraper_1.py
+python TimesJob.py
 ```
 
 Refer to the inline comments and docstrings within each script for specific usage instructions and customization options.
