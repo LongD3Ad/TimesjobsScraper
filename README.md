@@ -20,10 +20,10 @@ An advanced web scraping project that extracts job posting data from TimesJobs.c
 
 ## Project Structure
 
-1. `advanced_scraper_1.py`: Selenium-based scraper with dynamic content handling
-2. `advanced_scraper_2.py`: BeautifulSoup and Requests-based scraper for static content
-3. `basic_scraper_csv.py`: Basic scraper with CSV output
-4. `basic_scraper_txt.py`: Basic scraper with text file output
+1. `TimesJob.py`: Selenium-based scraper with dynamic content handling
+2. `TimesJob_scrape.py`: BeautifulSoup and Requests-based scraper for static content
+3. `savingtocsv.py`: Basic scraper with CSV output
+4. `savetotxtscrape.py`: Basic scraper with text file output
 
 ## Installation
 
